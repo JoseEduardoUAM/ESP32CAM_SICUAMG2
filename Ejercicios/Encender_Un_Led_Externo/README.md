@@ -29,6 +29,8 @@ El armado del circuito se debe realizar de la siguiente manera:
 
 ![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/mensaje_consola.JPG )
 
+4. Despues de ver el mensaje en consola se debe desconectar el cable del pin I0O del ESP32CAM
+
 - Antes de desconectar el cable del pin I0O
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/antes_I0O.jpg)
