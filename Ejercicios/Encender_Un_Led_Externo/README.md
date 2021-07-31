@@ -5,7 +5,7 @@ Programa básico que permite conectar al ESP32CAM a una red wifi y cuando se con
 ## Configuración
 
 1. Descargar la carpeta **Encender_Led** y abrir el archivo **Encender_Led.ino** desde el programa Arduino IDE.
-2. Modificar las lineas 22 y 23 de este archivo con la informacion correspondiente a la red wifi que este utilizando:
+2. Modificar las lineas 24 y 25 de este archivo con la informacion correspondiente a la red wifi que este utilizando:
 
 ![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/modificar_codigo.JPG )
 
@@ -21,7 +21,7 @@ Programa básico que permite conectar al ESP32CAM a una red wifi y cuando se con
 
 3. Cuando se haya terminado de subir el codigo, en consola se debera ver de la siguiente manera
 
-![]( mensaje_consola )
+![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/mensaje_consola.JPG )
 
 - Antes de desconectar el cable del pin I0O
 
@@ -42,3 +42,11 @@ Cuando se da click, mostra una ventana y se debe verificar que se esta trabajand
 6. Se debe presionar el boton de reset del ESP32CAM
 
 ## Resultados
+
+1. Cuando se presiona el boton de reset del ESP32CAM se debe mostrar ls informacion de la conexion con el wifi
+
+![]( informacion_conexion )
+
+2. Primero se debe mostrar el parpadeo de un led rojo del ESP32 y despues el parpadeo del flash y del led externo:
+
+![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/Funcionamiento.gif )
