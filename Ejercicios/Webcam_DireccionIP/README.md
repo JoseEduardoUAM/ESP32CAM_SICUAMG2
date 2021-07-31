@@ -8,7 +8,7 @@ Programa basico que permite conectar el ESP32CAM a una red wifi, poder utilizar 
 1. Descargar la carpeta **CameraWebServer** y abrir el archivo **CameraWebServer.ino** desde el programa Arduino IDE.
 2. Modificar las lineas 22 y 23 de este archivo con la informacion correspondiente a la red wifi que este utilizando:
 
-![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/C%C3%B3digo_Modificaci%C3%B3n.JPG)
+(https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/C%C3%B3digo_Modificaci%C3%B3n.JPG)
 
 ## Cargar el código en el ESP32CAM
 
@@ -49,8 +49,13 @@ Cuando se da click, mostra una ventana y se debe verificar que se esta trabajand
 
 2. Se debe abrir un navegador web y colocar esta direccion en el buscador
 3. Se mostrara la siguiente página en el navegador
+
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/ventana_navegador_inicio.JPG)
-4. Para el video de la camara se debe presionar el boton de **Start Stream**
+
+4. Para el video de la camara se debe presionar el boton de **Start Stream**.
+
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/boton_start.JPG)
+
 5. Despues de esto, se debe mostar el video de la camara en el navegador
+
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/ventana_navegador_cam.jpg)
