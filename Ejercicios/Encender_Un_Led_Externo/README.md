@@ -9,6 +9,12 @@ Programa básico que permite conectar al ESP32CAM a una red wifi y cuando se con
 
 ![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/modificar_codigo.JPG )
 
+## Circuito
+
+El armado del circuito se debe realizar de la siguiente manera:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/Circuito.JPG)
+
 ## Cargar el código en el ESP32CAM
 
 1. Verificar que el FTDI esta conectado y en un puerto (en este caso es el puerto COM8)
@@ -45,7 +51,7 @@ Cuando se da click, mostra una ventana y se debe verificar que se esta trabajand
 
 1. Cuando se presiona el boton de reset del ESP32CAM se debe mostrar ls informacion de la conexion con el wifi
 
-![]( informacion_conexion )
+![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/informacion_conexion.JPG )
 
 2. Primero se debe mostrar el parpadeo de un led rojo del ESP32 y despues el parpadeo del flash y del led externo:
 
