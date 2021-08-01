@@ -41,11 +41,11 @@ El armado del circuito se debe realizar de la siguiente manera:
 
 - Antes de desconectar el cable del pin I0O
 
-![]( antes_IO0 )
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Simulacion_Semaforo/Imagenes/antes_IO0.jpg)
 
 - Despues de desconectar el cable del pin I0O
 
-![]( despues_IO0 )
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Simulacion_Semaforo/Imagenes/despues_IO0.jpg)
 
 5. Se debe presionar el boton **Monito Serie** que se encuentra en la parte superior derecha de la ventana del IDE
 
@@ -61,8 +61,8 @@ Cuando se da click, mostra una ventana y se debe verificar que se esta trabajand
 
 1. Cuando se presiona el boton de reset del ESP32CAM se debe mostrar ls informacion de la conexion con el wifi
 
-![]( informacion_conexion )
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Simulacion_Semaforo/Imagenes/informacion_conexion.JPG)
 
 2. Primero se debe mostrar el parpadeo de un led rojo del ESP32 y despues el parpadeo del flash y el parpadeo de los leds externos (verde, amarillo y rojo):
 
-![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/Funcionamiento.gif )
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Simulacion_Semaforo/Imagenes/Funcionamiento.gif)
