@@ -1,15 +1,20 @@
-# ESP32CAM_SICUAMG2
-Ejercicios realizados con el ESP32CAM
+# Programas para ESP32CAM
+## Descripcion
+Este repositorio contiene programas que seran cargados en el ESP32CAM
 
-Fecha: 24 de julio del 2021
-Ejemplo Webcam
-Configuracion del IDE de arduino para el ESP32
+## Requisitos
 
-Fecha: Martes 
-Probar el WebCAM y se agrego led
+- ESP32CAM AI-Thinker
+- Camara OV2640
+- Programador FTDI con su cable
+- IDE de Arduino 1.8 o superior
 
-Fecha: Jueves
-Wifi
+## Guias
+Para configurar correctamente la IDE de Arduino para trabajar con el ESP32CAM, puedes consultar el siguiente enlace.
+https://edu.codigoiot.com/course/view.php?id=850
 
-Fecha: Sabado
-MQTT sensor de temperatura
+## Cableado entre ESP32CAM y FTDI
+
+El ESP32CAM y FTDI se deben conectar de la siguiente manera:
+
+![]( ESP32CAM )
