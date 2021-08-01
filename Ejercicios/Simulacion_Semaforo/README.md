@@ -61,7 +61,7 @@ Cuando se da click, mostra una ventana y se debe verificar que se esta trabajand
 
 1. Cuando se presiona el boton de reset del ESP32CAM se debe mostrar ls informacion de la conexion con el wifi
 
-![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Simulacion_Semaforo/Imagenes/informacion_conexion.JPG)
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Simulacion_Semaforo/Imagenes/informacion_conexion.png)
 
 2. Primero se debe mostrar el parpadeo de un led rojo del ESP32 y despues el parpadeo del flash y el parpadeo de los leds externos (verde, amarillo y rojo):
 
