@@ -13,7 +13,7 @@ Programa básico que permite conectar al ESP32CAM a una red wifi y cuando se con
 
 El armado del circuito se debe realizar de la siguiente manera:
 
-![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/Circuito.JPG)
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/Circuito.png)
 
 ## Cargar el código en el ESP32CAM
 
