@@ -17,4 +17,10 @@ https://edu.codigoiot.com/course/view.php?id=850
 
 El ESP32CAM y FTDI se deben conectar de la siguiente manera:
 
-![]( ESP32CAM )
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Imagenes/ESP32CAM_FTDI.png)
+
+## Autores y Colaboradores
+
+> Codigo-IoT github: https://github.com/codigo-iot/ESP32CAM_MQTT-Basic
+> Hugo Vargas github: https://github.com/hugoescalpelo
+> Jose Eduardo Hernandez github: https://github.com/JoseEduardoUAM
