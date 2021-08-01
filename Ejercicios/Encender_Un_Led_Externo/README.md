@@ -27,7 +27,7 @@ El armado del circuito se debe realizar de la siguiente manera:
 
 3. Cuando se haya terminado de subir el codigo, en consola se debera ver de la siguiente manera
 
-![]( https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/mensaje_consola.JPG )
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Encender_Un_Led_Externo/Imagenes/mensaje_consola.png)
 
 4. Despues de ver el mensaje en consola se debe desconectar el cable del pin I0O del ESP32CAM
 
