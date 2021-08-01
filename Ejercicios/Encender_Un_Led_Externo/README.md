@@ -19,7 +19,7 @@ El armado del circuito se debe realizar de la siguiente manera:
 
 1. Verificar que el FTDI esta conectado y en un puerto (en este caso es el puerto COM8)
 
-![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/Verificaci%C3%B3n_Puerto.jpg)
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Webcam_DireccionIP/Imagenes/Verificaci%C3%B3n_Puerto.png)
 
 2. Subir el código mediante el boton SUBIR que se encuentra en la parte superior izquierda de la ventana del IDE
 
