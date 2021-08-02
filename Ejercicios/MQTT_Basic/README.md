@@ -11,3 +11,9 @@ Programa básico que permite conectar al ESP32CAM a MQTT, enviar y recibir mensa
 - Nodos Dashboard para NodeRed
 
 ## Intrucciones
+
+1. Instalación de la biblioteca PubSubClient en Arduino IDE
+
+> https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/Instalacion_PubSubClient
+
+2. 
