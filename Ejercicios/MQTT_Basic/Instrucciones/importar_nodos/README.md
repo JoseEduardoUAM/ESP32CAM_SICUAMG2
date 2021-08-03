@@ -79,7 +79,7 @@ Para abrir la ventana de configuracion de este nodo basta con dar doble click en
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_in.PNG)
 
-2. 1. En el nodo de red **mqtt out** cambiar el nombre del tema y el servidor:
+2. En el nodo de red **mqtt out** cambiar el nombre del tema y el servidor:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mqtt_out.PNG)
 
