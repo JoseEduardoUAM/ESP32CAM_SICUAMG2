@@ -14,18 +14,18 @@ Programa básico que permite conectar al ESP32CAM a MQTT, enviar y recibir mensa
 
 1. Instalación de la biblioteca PubSubClient en Arduino IDE
 
-> *[https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/Instalacion_PubSubClient](Instalación de PubSubClient)*
+> *[Instalación de PubSubClient](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/Instalacion_PubSubClient)*
 
 2. Broker MQTT y suscribir tema
 
-> *[https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/Broker_MQTT_Tema](Broker y Suscribir Tema)*
+> *[Broker y Suscribir Tema](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/Broker_MQTT_Tema)*
 
 4. Importar nodos en NodeRed
 
-> *[https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos](Importar Nodos)*
+> *[Importar Nodos](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos)*
 
 3. Configuración en el programa principal **ESP32CAM_MQTT_Basic.ino**
-> **
+> *[Configuración de Programa](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/tree/main/Ejercicios/MQTT_Basic/Instrucciones/Configuracion_Programa)*
 
 ## Resultados
 
