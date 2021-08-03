@@ -55,9 +55,9 @@ node-red
 ## Configuración de Nodos en Flows
 
 ### Flow 3
-~~~~
+
 + En el nodo de red **mqtt in** cambiar el nombre del tema y el servidor:
-	+Imagen que muestra el nodo **mqtt in**:
+	+ Imagen que muestra el nodo **mqtt in**:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mqtt_in.PNG)
 
@@ -100,6 +100,6 @@ Para abrir la ventana de configuracion de este nodo basta con dar doble click en
 	+ Colocar el tema que se este publicando con ***mosquitto_pub***
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_out.PNG)
-~~~~
+
 
 ### Flow 4
