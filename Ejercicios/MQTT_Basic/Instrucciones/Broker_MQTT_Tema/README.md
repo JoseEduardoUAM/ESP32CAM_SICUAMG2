@@ -16,7 +16,7 @@ MQTT es un protocolo de mensajería basado en un modelo de publicación/suscripc
 
 2. Se utilizará el broker HIVEMQ:
 
-> *http://www.mqtt-dashboard.com/*
+> Enlace a página HIVEMQ: *http://www.mqtt-dashboard.com/*
 
 La configuracón de conexion MQTT es la siguiente:
 
@@ -26,6 +26,6 @@ La configuracón de conexion MQTT es la siguiente:
 1. Desde una consola de comandos de linux u otro sistema operativo donde se tenga instalado Mosquitto MQTT (en este caso se utilizo Ubuntu), se debe obtener la dirección ip del broker HIVEMQ:
 
 - Comando de linux:
-´´
+```
 nslookup  broker.hivemq.com
-´´
+```
