@@ -36,7 +36,8 @@ mosquitto_sub -h [Direccion_Ip_Broker] -i [Nombre] -q 2 -t [Tema]
 ## Ejemplo:
 ## mosquitto_sub -h 3.66.119.222 -i sub_JoseEduardoUAM -q 2 -t codigoIoT/G2/flow3/temp
 ```
-Resultado ale jecutar el comando:
+Resultado al ejecutar el comando:
+
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/Broker_MQTT_Tema/Imagenes/suscribir_tema.PNG)
 
 > Nota: El cursor de esta ventana se queda parpadeando en espera para recibir mensajes
@@ -44,7 +45,9 @@ Resultado ale jecutar el comando:
 ## Comprobación de Suscripción
 
 1. Abrir otra ventana de linea de comandos en el sistema operativo que se este trabajando (en este caso Ubuntu):
+
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/Broker_MQTT_Tema/Imagenes/nueva_ventana.PNG)
+
 2. Publicar en el tema que se creo anteriormente, este se realiza con el siguiente comando:
 ```
 mosquitto_pub -h [Direccion_Ip_Broker] -i [Nombre] -t [Tema] -m [mesanje]
@@ -52,6 +55,9 @@ mosquitto_pub -h [Direccion_Ip_Broker] -i [Nombre] -t [Tema] -m [mesanje]
 ## mosquitto_pub -h 3.66.119.222 -i pub_EduardoUAM -t codigoIoT/G2/flow3/temp -m "Hola mi nombre es Jose Eduardo Hernandez"
 ```
 Resultado de la publicacion:
+
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/Broker_MQTT_Tema/Imagenes/publicacion.PNG)
+
 3. Una vez que se halla ejecutado este comando, en la ventana de lineas de comando, (donde se halla suscrito el tema) se debe visualizar el mensaje enviado de la otra ventana de lineas de comando:
+
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/Broker_MQTT_Tema/Imagenes/recibido.PNG)
