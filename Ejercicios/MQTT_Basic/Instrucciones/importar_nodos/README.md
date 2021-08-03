@@ -36,19 +36,19 @@ node-red
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/pagina_inicio.PNG)
 
-4. Ahora se debe seleccionar el boton de la parte superior derecha de la pagina del navegar:
+4. Ahora se debe seleccionar el boton de la parte superior derecha de la página del navegador:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/hamburguesa.PNG)
 
-5. Despues, seleccionar importar:
+5. Después, seleccionar importar:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/opcion_importar.PNG)
 
-6. Se abrira la siguiente ventana:
+6. Se abrirá la siguiente ventana:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/ventana_importar.PNG)
 
-7. En esta ventana se agrega los datos del archivo (Archivo_NodeRed.json) y se dara click en el boton importar:
+7. En esta ventana se agrega los datos del archivo (Archivo_NodeRed.json) y se dará click en el boton importar:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/importar_json.PNG)
 
