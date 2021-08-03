@@ -54,7 +54,7 @@ node-red
 
 ## Configuración de Nodos en Flows
 
-### Flow 3
+### Flow 3. Alarma de temperaturas Altas
 
 1. En el nodo de red **mqtt in** cambiar el nombre del tema y el servidor:
 + Imagen que muestra el nodo **mqtt in**:
