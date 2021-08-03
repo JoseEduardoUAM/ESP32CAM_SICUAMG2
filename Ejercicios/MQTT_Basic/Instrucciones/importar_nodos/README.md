@@ -53,15 +53,13 @@ node-red
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/importar_json.PNG)
 
 ## Configuración de Nodos en Flows
-
-### Flow 3. Alarma de temperaturas Altas
-
+### **Flow 3. Alarma de temperaturas Altas**
 1. En el nodo de red **mqtt in** cambiar el nombre del tema y el servidor:
 + Imagen que muestra el nodo **mqtt in**:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mqtt_in.PNG)
 
-Para abrir la ventana de configuracion de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
+Para abrir la ventana de configuración de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
 
 + Colocar el Servidor (si no se tiene configurado, se puede agregar uno o actualizar el que ya se tiene)
 
@@ -101,5 +99,42 @@ Para abrir la ventana de configuracion de este nodo basta con dar doble click en
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_out.PNG)
 
+3. En el nodo de función switch se puede cambiar la alerta que se escuchará cuando alla una temeperatura alta:
 
-### Flow 4
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mensaje_audio.PNG)
+
+Para abrir la ventana de configuracion de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
+
++ Se debe cambiar el mensaje que se desea escuchar:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/configuracion_mensaje_audio.PNG)
+
+### **Flow 4. Encender flash de ESP32CAM desde NodeRed**
+1. En el nodo de red **mqtt in** cambiar el nombre del tema y el servidor:
++ Imagen que muestra el nodo **mqtt in**:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mqtt_in_flash.PNG)
+
+Para abrir la ventana de configuración de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
+
++ Colocar el Servidor (si no se tiene configurado, se puede agregar uno o actualizar el que ya se tiene como en el flow 3).
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/configuracion_servidor_in_flash.PNG)
+
++ Colocar el tema que se este publicando con ***mosquitto_pub***
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_in_flash.PNG)
+
+2. En el nodo de red **mqtt out** cambiar el nombre del tema y el servidor:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mqtt_out_flash.PNG)
+
+Para abrir la ventana de configuración de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
+
++ Colocar el Servidor (si no se tiene configurado, se puede agregar uno o actualizar el que ya se tiene como en el flow 3).
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/configuracion_servidor_in_flash.PNG)
+
++ Colocar el tema que se este publicando con ***mosquitto_pub***
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_in_flash.PNG)
