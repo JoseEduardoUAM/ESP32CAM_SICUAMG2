@@ -18,7 +18,7 @@ Tener instalado NodeRed
 
 ## Procedimiento para Importar Nodos
 1. Ejecutar NodeRed desde una consola de comandos (en este caso Ubuntu):
-- Comando para la ejecucion de NodeRed:
+- Comando para la ejecución de NodeRed:
 
 ```
 node-red
@@ -28,11 +28,11 @@ node-red
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/comando_nodered.PNG)
 
-2. Una vez que se ejecute el comando, se debe abrir un navegador web y colocar la direccion que se proporciona (en este caso es la http://127.0.0.1:1880/)
+2. Una vez que se ejecute el comando, se debe abrir un navegador web y colocar la dirección que se proporciona (en este caso es http://127.0.0.1:1880/)
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/direccion_consola.PNG)
 
-3. Cuando se termina de cargar la pagina se vera de la siguiente manera (solo si es la primera vez o si no se a realizado algun proyecto antes):
+3. Cuando se termina de cargar la página se vera de la siguiente manera (solo si es la primera vez o si no se a realizado algun proyecto antes):
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/pagina_inicio.PNG)
 
@@ -48,7 +48,7 @@ node-red
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/ventana_importar.PNG)
 
-7. En esta ventana se agrega los datos del archivo (Archivo_NodeRed.json) y se dará click en el boton importar:
+7. En esta ventana se debe agregar los datos del archivo ([Archivo_NodeRed.json](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Archivos/Archivo_NodeRed.json)) y se dará click en el boton importar:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/importar_json.PNG)
 
@@ -67,7 +67,7 @@ Para abrir la ventana de configuración de este nodo basta con dar doble click e
 
 + En cualquier caso se debe colocar:
 
-	+ Server: direccion ip del broker
+	+ Server: dirección ip del broker
 	+ Protocolo
 	+ Nombre del Id Cliente
 
@@ -81,7 +81,7 @@ Para abrir la ventana de configuración de este nodo basta con dar doble click e
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mqtt_out.PNG)
 
-Para abrir la ventana de configuracion de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
+Para abrir la ventana de configuración de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
 
 + Colocar el Servidor (si no se tiene configurado, se puede agregar uno o actualizar el que ya se tiene)
 
@@ -89,7 +89,7 @@ Para abrir la ventana de configuracion de este nodo basta con dar doble click en
 
 + En cualquier caso se debe colocar:
 
-	+ Server: direccion ip del broker
+	+ Server: dirección ip del broker
 	+ Protocolo
 	+ Nombre del Id Cliente
 
@@ -99,11 +99,11 @@ Para abrir la ventana de configuracion de este nodo basta con dar doble click en
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_out.PNG)
 
-3. En el nodo de función switch se puede cambiar la alerta que se escuchará cuando alla una temeperatura alta:
+3. En el nodo de función switch se puede cambiar la alerta que se escuchará cuando haya una temeperatura alta:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/boton_mensaje_audio.PNG)
 
-Para abrir la ventana de configuracion de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
+Para abrir la ventana de configuración de este nodo basta con dar doble click en este nodo y colocar la información correspondiente:
 
 + Se debe cambiar el mensaje que se desea escuchar:
 
