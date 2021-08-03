@@ -95,7 +95,7 @@ Para abrir la ventana de configuracion de este nodo basta con dar doble click en
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/guardar_servidor_in.PNG)
 
-+ Colocar el tema que se este publicando con ***mosquitto_pub***
++ Colocar el tema del switch:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_out.PNG)
 
@@ -121,7 +121,7 @@ Para abrir la ventana de configuración de este nodo basta con dar doble click e
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/configuracion_servidor_in_flash.PNG)
 
-+ Colocar el tema que se este publicando con ***mosquitto_pub***
++ Colocar el tema para recibir datos de la ESP32:
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_in_flash.PNG)
 
@@ -133,8 +133,8 @@ Para abrir la ventana de configuración de este nodo basta con dar doble click e
 
 + Colocar el Servidor (si no se tiene configurado, se puede agregar uno o actualizar el que ya se tiene como en el flow 3).
 
-![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/configuracion_servidor_in_flash.PNG)
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/configuracion_servidor_out_flash.PNG)
 
 + Colocar el tema que se este publicando con ***mosquitto_pub***
 
-![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_in_flash.PNG)
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Instrucciones/importar_nodos/Imagenes/tema_configuracion_out.PNG)
