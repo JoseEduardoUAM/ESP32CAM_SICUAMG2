@@ -44,4 +44,4 @@ se debe colocar el cable de alimentacion (3V3) encuentra entre el DHT11 y el ESP
 Cuando se presiona el boton de reset del ESP32CAM estando en el monitor serial del Arduino IDE, se debe esperar el mensaje
 que indica que se encuentra conectado al DHT11, en ese momento se debe colocar el cable de alimentacion (3V3) encuentra entre el DHT11 y el ESP32CAM, además, se debe observar la temperatura del ambiente en ese momento en °C y °F:
 
-![](funcionamiento)
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/Manejo_Inicial_DHT11/Imagenes/funcionamiento.gif)
