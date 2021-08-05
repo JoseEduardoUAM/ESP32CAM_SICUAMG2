@@ -52,6 +52,27 @@ Programa básico que permite conectar al ESP32CAM a MQTT, enviar y recibir mensa
 
 ![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Imagenes/float3_temperatura.gif)
 
+### **Flow 4. Encender flash de ESP32CAM desde NodeRed**
+1. Suscribir un tema:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Imagenes/suscribir_tema_led.PNG)
+
+2. Seleccionar la opción de Dashboard:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Imagenes/dashboard.PNG)
+
+3. Seleccionar el siguiente botón:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Imagenes/ver_pagina.PNG)
+
+4. Se mostrará la siguiente página:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Imagenes/pagina_led.PNG)
+
+5. Se puede observar el los datos enviados desde el ESP32CAM en el navegador web y se puede encerder el flash del ESP32CAM desde el navegador web:
+
+![](https://github.com/JoseEduardoUAM/ESP32CAM_SICUAMG2/blob/main/Ejercicios/MQTT_Basic/Imagenes/flow_led.gif)
+
 ## Autores y Colaboradores:
 
 > *Hugo Vargas github: https://github.com/hugoescalpelo*
